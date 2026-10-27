@@ -1,0 +1,5 @@
+Architecture,Random_Split_wMAE,Butina_Split_wMAE,Optimistic_Leakage_Bias,Random_Rg_MAE,Butina_Rg_MAE
+GINE,0.05242,0.05399,-2.9%,1.594,1.404
+GATV2,0.05422,0.05647,-4.0%,1.567,1.444
+PNA,0.05253,0.05426,-3.2%,1.561,1.455
+GPS,0.05067,0.05368,-5.6%,1.435,1.461

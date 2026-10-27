@@ -1,0 +1,5 @@
+Representation,wMAE,MAE_Tg,MAE_FFV,MAE_Tc,MAE_Density,MAE_Rg
+1. Naive Monomer (raw '*' dummy atoms),0.05054,52.67,0.0103,0.0228,0.0248,1.312
+2. Star-Capped Monomer (core-pooled),0.05046,52.16,0.0109,0.0243,0.0237,1.276
+3. Oligomer Trimer n=3 (center-unit pooled),0.05216,49.5,0.0115,0.0252,0.0231,1.539
+4. Oligomer Trimer n=3 + Physics/FP Fusion,0.05268,54.52,0.0111,0.0228,0.0261,1.42
